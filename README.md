@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola, bienvenido a mi GitHub!  
 
-<!--
-**cponce-cmd/cponce-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí  
+Soy **Cristian Ponce Pincheira**, Ingeniero en Aviación Comercial con experiencia en **planificación, análisis de datos y gestión de proyectos TI**. Me apasiona transformar datos en información valiosa que apoye la toma de decisiones y la mejora de procesos.  
 
-Here are some ideas to get you started:
+## Tecnologías e intereses  
+- 📊 **Análisis de datos:** Excel avanzado, Power BI, SQL, Python  
+- 🖥️ **Gestión de proyectos:** Metodologías ágiles, Jira, MS Project  
+- ⚙️ **Automatización y monitoreo:** Power Automate, Linux, Grafana, Splunk  
+- ✈️ **Intereses:** Tecnología, análisis de procesos, operaciones críticas y mejora continua  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bienvenida  
+Este espacio está pensado para compartir proyectos, aprendizajes y desarrollos relacionados con **análisis de datos, gestión operativa y soluciones tecnológicas**.  
+Siéntete libre de explorar, comentar o colaborar.  
+
+🚀 *Gracias por visitar mi perfil, y bienvenido/a a mi GitHub.*  
